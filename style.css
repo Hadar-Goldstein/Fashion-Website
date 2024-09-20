@@ -1,12 +1,12 @@
 body {
-    background-image: url(/assests/images/background_4.jpg);
+    background-image: url(assests/images/background_4.jpg);
     background-repeat: repeat;
     font-family: 'Segoe UI';
     }
 
 @font-face {
     font-family: Fashion-font;
-    src: url(/assests/fonts/Awesome\ Snowflakes.ttf);
+    src: url(assests/fonts/Awesome\ Snowflakes.ttf);
 }
 
 .fashion-title {
